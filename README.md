@@ -8,12 +8,13 @@
 - no-res
 - no-assets
 
-## DNS
-### java
+## Mod
+### DNS
+- java
 ```
 void u
 ```
-### smali
+- smali
 ```
 .method private u()V
     .locals 2
@@ -21,14 +22,12 @@ void u
     return-void
 .end method
 ```
-
-
-## ADS
-### - java
+### ADS
+- java
 ```
 void j0
 ```
-### smali
+- smali
 ```
 .method private j0(Z)V
     .locals 8
