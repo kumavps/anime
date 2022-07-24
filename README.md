@@ -1,14 +1,14 @@
-# Mod nonton anime
+# MOD NONTON ANIME
 
-## disable signature lucky
+## Lucky
 - resign with test signature
 - signature verification killer
 
-## apk labs
+## APK Lab
 - no-res
 - no-assets
 
-## dns
+## DNS
 ### java
 ```
 void u
@@ -23,7 +23,7 @@ void u
 ```
 
 
-## ads
+## ADS
 ### java
 ```
 void j0
